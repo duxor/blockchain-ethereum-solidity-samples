@@ -4,7 +4,7 @@
 
 ` npm install -g truffle `
 
-## Granche
+## Ganache
 
 Download, install and run - [link](http://truffleframework.com/ganache/)
 
