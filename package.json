@@ -1,0 +1,17 @@
+{
+  "name": "Blockchain Ethereum Solidity Samples",
+  "version": "1.0.0",
+  "description": "Blockchain Ethereum Solidity Samples",
+  "directories": {
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dusan Perisic",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "http-server": "^0.11.1",
+    "jquery": "^3.3.1"
+  }
+}
